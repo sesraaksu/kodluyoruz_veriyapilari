@@ -1,10 +1,10 @@
 [22,27,16,2,18,6] -> Insertion Sort
 
-[22,27,16,2,18,6] 27 ile karşılaştırıldı ve sıralandı
-[16,22,27,2,18,6] 16 ile karşılaştırıldı ve sıralandı
-[2,16,22,27,18,6] 2 ile karşılaştırıldı ve sıralandı
-[2,16,18,22,27,6] 18 ile karşılaştırıldı ve sıralandı
-[2,6,16,18,22,27] 6 ile karşılaştırıldı ve sıralandı
+1. [22,27,16,2,18,6] 27 ile karşılaştırıldı ve sıralandı
+2. [16,22,27,2,18,6] 16 ile karşılaştırıldı ve sıralandı
+3. [2,16,22,27,18,6] 2 ile karşılaştırıldı ve sıralandı
+4. [2,16,18,22,27,6] 18 ile karşılaştırıldı ve sıralandı
+5. [2,6,16,18,22,27] 6 ile karşılaştırıldı ve sıralandı
 
 Big O gösterimi: O(n^2)
 
